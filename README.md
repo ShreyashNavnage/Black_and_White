@@ -1,2 +1,1 @@
-# Black-and-White imaage
-
+# Black-and-White image
